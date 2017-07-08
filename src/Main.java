@@ -3,6 +3,11 @@ import java.util.*;
 /**
  * Created by yrafiyev on 2017-07-06.
  */
+
+/*
+    Given graph represented by String rows of "0" and "1"s, find how many components are there.
+ */
+
 public class Main {
 
     private void print(LinkedHashMap<String, String> path){
